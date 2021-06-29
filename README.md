@@ -3,7 +3,7 @@
 🏷 also known as Akki<br>
 🧠 focuses on Python. Cloud. Micro Services. GoLang. Machine Learning.<br>
 🖥 develops enterprise grade products. back-end systems. machine learning solutions<br>
-💪 codes for open source<br>
+💪 codes for open source & community<br>
 ✍️ writes on <a href="https://medium.com/dotstar">Medium</a>, <a href="https://chroniclesofai.com/author/akki/">ChroniclesOfAI.com</a><br>
 <!-- 🎬 creates, writes and shoots film. podcasts. documentary. video.<br> -->
 💙 loves learning. problem-solving. challenging himself.<br>

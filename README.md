@@ -12,10 +12,10 @@
 📌 develops at Deloitte LLP.</p><br>
 
 <p align='center'>
-<a href="http://hevalhazalkurt.com" target="_blank" title="Homepage"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/home.svg"></a>
-<a href="https://www.linkedin.com/in/hevalhazalkurt/" target="_blank" title="LinkedIn"><img height="28"  src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a>
-<a href="https://www.instagram.com/hevalhazalkurt/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>
-<a href="https://twitter.com/hevalandsteven" target="_blank" title="Twitter"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/twitter.svg"></a>
+<a href="http://nikhilakki.in" target="_blank" title="Homepage"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/home.svg"></a>
+<a href="https://www.linkedin.com/in/nikhilakki/" target="_blank" title="LinkedIn"><img height="28"  src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a>
+<a href="https://www.instagram.com/nikhilakki/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>
+<a href="https://twitter.com/akkitechie" target="_blank" title="Twitter"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/twitter.svg"></a>
 <a href="https://www.facebook.com/nikhilakki" target="_blank" title="Facebook"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/facebook.svg"></a>
 <!-- <a href="https://www.youtube.com/user/nikhilakki" target="_blank" title="Youtube"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/youtube.svg"></a> -->
 <!-- <a href="https://www.codewars.com/users/nikhilakki" target="_blank" title="CodeWars"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg"></a> -->

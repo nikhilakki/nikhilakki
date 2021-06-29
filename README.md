@@ -1,6 +1,6 @@
 <h1 align='center'>👋 Hi there! I'm Nikhil</h1><br>
 <p align='center'>
-🏷 known as Akki. Techie<br>
+🏷 also known as Akki<br>
 🧠 focuses on Python. Cloud. Micro Services. GoLang. Machine Learning.<br>
 🖥 develops enterprise grade products. back-end systems. machine learning solutions<br>
 💪 codes for open source<br>

@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align='center'>👋 Hi there! I'm Nikhil</h1><br>
+<p align='center'>
+🏷 known as Akki. Techie<br>
+🧠 focuses on Python. Cloud. Micro Services. GoLang. Machine Learning.<br>
+🖥 develops enterprise grade products. back-end systems. machine learning solutions<br>
+💪 codes for open source<br>
+✍️ writes on <a href="https://medium.com/dotstar">Medium</a>, <a href="https://chroniclesofai.com/author/akki/">ChroniclesOfAI.com</a><br>
+<!-- 🎬 creates, writes and shoots film. commercial. documentary. short film. video.<br> -->
+💙 loves learning. problem-solving. challenging himself.<br>
+🏆 awarded by Deloitte for delivering value & excellent client service<br>
+🧩 interests include horticulture. history. gaming. story telling<br>
+📌 develops at Deloitte LLP.</p><br>
 
-<!--
-**nikhilakki/nikhilakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+<a href="http://hevalhazalkurt.com" target="_blank" title="Homepage"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/home.svg"></a>
+<a href="https://www.linkedin.com/in/hevalhazalkurt/" target="_blank" title="LinkedIn"><img height="28"  src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a>
+<a href="https://www.instagram.com/hevalhazalkurt/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>
+<a href="https://twitter.com/hevalandsteven" target="_blank" title="Twitter"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/twitter.svg"></a>
+<a href="https://www.facebook.com/nikhilakki" target="_blank" title="Facebook"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/facebook.svg"></a>
+<!-- <a href="https://www.youtube.com/user/nikhilakki" target="_blank" title="Youtube"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/youtube.svg"></a> -->
+<!-- <a href="https://www.codewars.com/users/nikhilakki" target="_blank" title="CodeWars"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg"></a> -->
+<!-- <a href="https://www.hackerrank.com/nikhilakki" target="_blank" title="HackerRank"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg"></a> -->
+</p>

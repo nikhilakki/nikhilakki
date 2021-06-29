@@ -5,9 +5,9 @@
 🖥 develops enterprise grade products. back-end systems. machine learning solutions<br>
 💪 codes for open source<br>
 ✍️ writes on <a href="https://medium.com/dotstar">Medium</a>, <a href="https://chroniclesofai.com/author/akki/">ChroniclesOfAI.com</a><br>
-<!-- 🎬 creates, writes and shoots film. commercial. documentary. short film. video.<br> -->
+<!-- 🎬 creates, writes and shoots film. podcasts. documentary. video.<br> -->
 💙 loves learning. problem-solving. challenging himself.<br>
-🏆 awarded by Deloitte for delivering value & excellent client service<br>
+<!-- 🏆 awarded by Deloitte for delivering value & excellent client service<br> -->
 🧩 interests include horticulture. history. gaming. story telling<br>
 📌 develops at Deloitte LLP.</p><br>
 

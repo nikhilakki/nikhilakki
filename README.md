@@ -1,13 +1,13 @@
 <h1 align='center'>👋 Hi there! I'm Nikhil</h1><br>
 <p align='center'>
 🏷 also known as Akki<br>
-🧠 focuses on Python. Cloud. Micro Services. GoLang. Machine Learning.<br>
-🖥 develops enterprise grade products. back-end systems. machine learning solutions<br>
+🧠 codes on Python, Go & TypeScript.<br>
+🏆 specializes in GCP & AWS Cloud & Micro Services architecture<br>
+🖥 develops enterprise grade products, back-end systems, AI/Machine learning solutions<br>
 💪 codes for open source & community<br>
 ✍️ writes on <a href="https://gochronicles.com/author/nikhilakki/">Go Chronicles</a> & <a href="https://chroniclesofai.com/author/akki/">Chronicles of AI</a><br>
 <!-- 🎬 creates, writes and shoots film. podcasts. documentary. video.<br> -->
 💙 loves learning. problem-solving. challenging himself.<br>
-<!-- 🏆 awarded by Deloitte for delivering value & excellent client service<br> -->
 🧩 interests include horticulture. history. gaming. story telling<br>
 📌 develops at Deloitte LLP.</p><br>
 

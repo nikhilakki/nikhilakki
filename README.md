@@ -4,7 +4,7 @@
 🧠 focuses on Python. Cloud. Micro Services. GoLang. Machine Learning.<br>
 🖥 develops enterprise grade products. back-end systems. machine learning solutions<br>
 💪 codes for open source & community<br>
-✍️ writes on <a href="https://medium.com/dotstar">Medium</a> | <a href="https://chroniclesofai.com/author/akki/">ChroniclesOfAI.com</a> | <a href="https://gochronicles.com/author/nikhilakki/">GoChronicles.com</a><br>
+✍️ writes on <a href="https://gochronicles.com/author/nikhilakki/">Go Chronicles</a> & <a href="https://chroniclesofai.com/author/akki/">Chronicles of AI</a><br>
 <!-- 🎬 creates, writes and shoots film. podcasts. documentary. video.<br> -->
 💙 loves learning. problem-solving. challenging himself.<br>
 <!-- 🏆 awarded by Deloitte for delivering value & excellent client service<br> -->

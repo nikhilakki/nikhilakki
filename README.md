@@ -1,5 +1,5 @@
 <h1 align='center'>👋 Hi there! I'm Nikhil</h1><br>
-<p align='center'>
+<p align='left'>
 🏷 also known as Akki<br>
 🧠 codes in Python, TypeScript & GoLang<br>
 🏆 specializes in GCP & AWS Cloud & Micro Services architecture<br>
@@ -8,11 +8,11 @@
 ✍️ writes on <a href="https://gochronicles.com/author/nikhilakki/">Go Chronicles</a> & <a href="https://chroniclesofai.com/author/akki/">Chronicles of AI</a><br>
 <!-- 🎬 creates, writes and shoots film. podcasts. documentary. video.<br> -->
 💙 loves learning. problem-solving. challenging himself.<br>
-🧩 interests include horticulture. history. gaming. story telling<br>
-📌 works at Deloitte USI, Mumbai.</p><br>
-⚡ Fun fact: Can dance on any music!
+🧩 interests include 🚴 🏊 🏃<br>
+📌 works at Deloitte USI, Mumbai.<br>
+⚡ Fun fact - can dance on any music!</p><br>
 
-<p align='center'>
+<p align='left'>
 <a href="http://nikhilakki.in" target="_blank" title="Homepage"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/home.svg"></a>
 <a href="https://www.linkedin.com/in/nikhilakki/" target="_blank" title="LinkedIn"><img height="28"  src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a>
 <!-- <a href="https://www.instagram.com/nikhilakki/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>

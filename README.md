@@ -1,7 +1,7 @@
 <h1 align='center'>👋 Hi there! I'm Nikhil</h1><br>
 <p align='center'>
 🏷 also known as Akki<br>
-🧠 codes in Python, Go & TypeScript.<br>
+🧠 codes in Python, TypeScript & GoLang<br>
 🏆 specializes in GCP & AWS Cloud & Micro Services architecture<br>
 🖥 develops enterprise grade products, back-end systems, AI/Machine learning solutions<br>
 💪 codes for open source & community<br>
@@ -9,7 +9,8 @@
 <!-- 🎬 creates, writes and shoots film. podcasts. documentary. video.<br> -->
 💙 loves learning. problem-solving. challenging himself.<br>
 🧩 interests include horticulture. history. gaming. story telling<br>
-📌 develops at Deloitte LLP.</p><br>
+📌 works at Deloitte USI, Mumbai.</p><br>
+⚡ Fun fact: Can dance on any music!
 
 <p align='center'>
 <a href="http://nikhilakki.in" target="_blank" title="Homepage"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/home.svg"></a>

@@ -8,7 +8,7 @@
 ✍️ writes on <a href="https://gochronicles.com/author/nikhilakki/">Go Chronicles</a> & <a href="https://chroniclesofai.com/author/akki/">Chronicles of AI</a><br>
 <!-- 🎬 creates, writes and shoots film. podcasts. documentary. video.<br> -->
 💙 loves learning. problem-solving. challenging himself.<br>
-🧩 interests include 🚴 🏊 🏃<br>
+⚽ interests include 🚴 🏊 🏃<br>
 📌 works at Deloitte USI, Mumbai.<br>
 ⚡ Fun fact - can dance on any music!</p><br>
 

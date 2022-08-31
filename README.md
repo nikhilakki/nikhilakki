@@ -2,7 +2,7 @@
 <p align='left'>
 🏷 also known as Akki<br>
 🧠 codes in Python, TypeScript & GoLang<br>
-🏆 specializes in GCP & AWS Cloud & Micro Services architecture<br>
+🏆 hands-on with in GCP, AWS & Azure Cloud<br>
 🖥 develops enterprise grade products, back-end systems, AI/Machine learning solutions<br>
 💪 codes for open source & community<br>
 ✍️ writes on <a href="https://gochronicles.com/author/nikhilakki/">Go Chronicles</a> & <a href="https://chroniclesofai.com/author/akki/">Chronicles of AI</a><br>
@@ -11,6 +11,7 @@
 ⚽ interests include 🚴 🏊 🏃<br>
 📌 works at Deloitte USI, Mumbai.<br>
 ⚡ Fun fact - can dance on any music!</p><br>
+📧 write at me@nikhilakki.in
 
 <p align='left'>
 <a href="http://nikhilakki.in" target="_blank" title="Homepage"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/home.svg"></a>

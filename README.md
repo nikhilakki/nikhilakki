@@ -10,8 +10,8 @@
 💙 loves learning. problem-solving. challenging himself.<br>
 ⚽ interests include 🚴 🏊 🏃<br>
 📌 works at Deloitte USI, Mumbai.<br>
-⚡ Fun fact - can dance on any music!</p><br>
-📧 write at me@nikhilakki.in
+⚡ Fun fact - can dance on any music!<br>
+📧 write at me@nikhilakki.in</p><br>
 
 <p align='left'>
 <a href="http://nikhilakki.in" target="_blank" title="Homepage"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/home.svg"></a>

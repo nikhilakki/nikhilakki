@@ -5,7 +5,8 @@
 🏆 hands-on with in GCP, AWS & Azure Cloud<br>
 🖥 develops enterprise grade products, back-end systems, AI/Machine learning solutions<br>
 💪 codes for open source & community<br>
-✍️ writes on  <a href="https://nikhilakki.in">Nikhil Akki's Blog</a>, <a href="https://gochronicles.com/author/nikhilakki/">Go Chronicles</a> & <a href="https://chroniclesofai.com/author/akki/">Chronicles of AI</a><br>
+✍️ writes on  <a href="https://nikhilakki.in">Nikhil Akki's Blog</a> & <a href="https://gochronicles.com/author/nikhilakki/">Go Chronicles</a>
+<br>
 <!-- 🎬 creates, writes and shoots film. podcasts. documentary. video.<br> -->
 💙 loves learning. problem-solving. challenging himself.<br>
 ⚽ interests include 🚴 🏊 🏃<br>

@@ -1,7 +1,7 @@
 <h1 align='center'>👋 Hi there! I'm Nikhil</h1><br>
 <p align='left'>
 🏷 also known as Akki<br>
-🧠 codes in Python & TypeScript<br>
+🧠 codes in Python, TypeScript & Golang <br>
 🏆 hands-on with in GCP, AWS & Azure Cloud<br>
 🖥 develops enterprise grade products, back-end systems, AI/Machine learning solutions<br>
 💪 codes for open source & community<br>
